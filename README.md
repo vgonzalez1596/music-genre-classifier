@@ -9,17 +9,24 @@ Determine whether quantitative song metrics (e.g., tempo, loudness, danceability
 
 ## Approach
 • Filtered dataset to 5 distinct genres: acoustic, country, hip-hop, metal, tango
+
 • Feature scaling + train/test split (80/20)
+
 • Trained and evaluated a Random Forest classifier
+
 • Saved evaluation outputs (metrics + plots) for reproducibility
 
 ---
 
 ## Results
 • Random Forest accuracy: **~0.86** on the 5-genre subset  
+
 • Outputs generated in `results/`:
+
   • `metrics.txt`
+
   • confusion matrix
+
   • feature importance plot
 
 ---
