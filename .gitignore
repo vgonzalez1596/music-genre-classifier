@@ -1,0 +1,11 @@
+# data files
+data/*.csv
+data/*.zip
+
+# python junk
+__pycache__/
+*.pyc
+
+# misc
+.DS_Store
+.ipynb_checkpoints/
