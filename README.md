@@ -16,7 +16,7 @@ Determine whether quantitative song metrics (e.g., tempo, loudness, danceability
 ---
 
 ## Results
-- Random Forest accuracy: **~0.86** on the 5-genre subset  
+- Random Forest accuracy: **~0.84** on the 5-genre subset  
 - Outputs generated in `results/`:
   - `metrics.txt`
   - confusion matrix
