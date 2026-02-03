@@ -1,0 +1,13 @@
+Random Forest Accuracy: 0.84
+
+              precision    recall  f1-score   support
+
+    acoustic       0.75      0.81      0.78       200
+     country       0.78      0.73      0.75       199
+     hip-hop       0.86      0.86      0.86       200
+       metal       0.87      0.84      0.85       200
+       tango       0.95      0.96      0.96       200
+
+    accuracy                           0.84       999
+   macro avg       0.84      0.84      0.84       999
+weighted avg       0.84      0.84      0.84       999
