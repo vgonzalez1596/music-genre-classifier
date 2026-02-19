@@ -1,4 +1,4 @@
-# Project #1: Music Genre Classifier Using Machine Learning.
+# Project #3: Music Genre Classifier Using Machine Learning.
 
 This repository contains a machine learning project that predicts a song’s genre from audio features using the Spotify Tracks dataset (Kaggle).
 
